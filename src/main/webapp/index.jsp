@@ -13,7 +13,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <a href="CostumerList">Contactos</a>
+        <a style="text-decoration: none" href="CostumerList">Contactos</a>
         <br>
         <a href="PhoneTypeList">Tipos de telefono</a>
         <br>
