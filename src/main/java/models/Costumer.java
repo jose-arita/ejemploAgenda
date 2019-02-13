@@ -14,6 +14,10 @@ public class Costumer {
     private int id;
     private String name;
 
+    public Costumer( int id){
+        this.id = id;
+    }
+
     public Costumer(String name) {
         this.name = name;
     }
